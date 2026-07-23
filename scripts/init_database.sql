@@ -1,0 +1,9 @@
+CREATE DATABASE CafeSales
+
+USE CafeSales
+
+CREATE SCHEMA bronze
+
+CREATE SCHEMA silver
+
+CREATE SCHEMA gold
